@@ -55,7 +55,7 @@ This repository contains Terraform scripts to help you get started with infrastr
 
 ## How to Use 🚀  
 
-1. Clone the repository:  
+1.Clone the repository and choose a script from the respective directory based on your requirements. :  
    ```bash
    git clone https://github.com/sanjay14073/fun_with_tf.git
    cd fun_with_tf/your-wanted-dirname
@@ -65,10 +65,9 @@ This repository contains Terraform scripts to help you get started with infrastr
    ```bash
    terraform init
    ```  
+ 
 
-3. Choose a script from the repository based on your requirements.  
-
-4. Run `terraform plan` to preview the changes and `terraform apply` to deploy.  
+3. Run `terraform plan` to preview the changes and `terraform apply` to deploy.  
 
 ---
 
